@@ -154,7 +154,7 @@ where Lab_Result = 'Positive'
 group by HCP_ID),
 
 pre_prep as (select fs.HCP_ID, coalesce(sum(ps.Prescription_Volume),0) as pre_pre from first_pos fs
-join primex.sales ps on ps.HCP_ID = fs.HCP_ID and ps.Drug_ID = 'DRG001'
+join Sales ps on ps.HCP_ID = fs.HCP_ID and ps.Drug_ID = 'DRG001'
 where str_to_date(ps.Prescription_Date,  '%m/%d/%Y') < fs.first_post  and
 datediff( fs.first_post, str_to_date(ps.Prescription_Date,  '%m/%d/%Y')) <= 90
 group by fs.HCP_ID),
