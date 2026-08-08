@@ -17,7 +17,6 @@ A pharma commercial analytics case study analyzing HCP (doctor) clinical alert, 
 - [Repository Structure](#-repository-structure)
 - [How to Run](#-how-to-run)
 - [Executive Summary](#-executive-summary)
-- [License](#-license)
 
 ---
 
@@ -243,10 +242,5 @@ jupyter notebook notebooks/analysis.ipynb
 
 ---
 
-## 📄 License
-
-*Add license info if applicable (e.g., MIT, or "For educational/case-study use only").*
-
----
 
 *This case study was completed as part of the ProcDNA analytics case study series (2026–27).*
