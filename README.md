@@ -1,4 +1,3 @@
-<img width="1147" height="525" alt="Screenshot 2026-08-08 160037" src="https://github.com/user-attachments/assets/c1f4fa25-f182-4b5e-ac16-3644c470a028" />
 # Nexavir | PrimeRx Flow
 ### Alert-to-Treatment & Commercial Opportunity Analysis 
 
