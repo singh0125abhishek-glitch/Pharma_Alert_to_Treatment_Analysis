@@ -148,6 +148,7 @@ round(coalesce(a.our_drug_vol,0)*1.0/ nullif(a.act_doc,0),2) as pre_pr_act_doc f
 left join act a on a.Account_ID = af.Account_ID
 order by 5 asc  limit 10;
 
+
 ____________________________________________________________________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________
 9. -- Ques6. Part A) Basic lift: Define a 90-day before and 90-day after window around each doctor's first positive alert. 
