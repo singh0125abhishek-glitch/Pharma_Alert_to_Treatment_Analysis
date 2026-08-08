@@ -179,7 +179,7 @@ Deliverable: a segment-level table of suggested **% of rep calls**, **estimated 
 | **Visualization** | Funnel chart, scatter plot (account size vs. efficiency), before/after comparison charts |
 | **Storytelling** | Translating raw metrics into a prioritized, resource-constrained commercial action plan |
 
-> *Add the specific tools you used — e.g., Python (Pandas, NumPy, Matplotlib/Seaborn), SQL, Excel, Power BI/Tableau, Jupyter Notebook.*
+>*In this Project, I use MySQL, Ms-Excel, Power BI, Jupyter Notebook tools.*
 
 ---
 
