@@ -220,6 +220,20 @@ Deliverable: a segment-level table of suggested **% of rep calls**, **estimated 
 - **Segment-level insights** — which HCP/account segments matter most and why
 - **Recommended actions** — prioritized outreach plan and expected impact
 - **Next steps / limitations** — data gaps, follow-on analysis needed
+*Based on your analysis, prepare a summary about the findings and strategic recommendations to the leadership.*
+
+- **Problem Statement:** - Our goal was to figure out if positive lab test alerts actually make doctors prescribe our drug, which was Nexavir. We find where we are losing business and optimize sales rep calls.
+- **Key Findings:** - In question 2nd and 4th, we found that a significant number of doctors receive positive lab alerts but don't prescribe any drug within 30 days. Similarly, top hospital accounts have high alert counts but low conversion rates.
+- Also, our competition threat is that even among our highest alert doctors, competitors are capturing a major chunk of prescription volume. Also, doctors fall into 3 groups new starters - growers, non-responder and new starters based on the prescription they provide upon getting alerts.
+- **Action Plan:** - In question 7th, we allocated 40 sales reps based on doctor behavior.
+- We put 50% effort on growers because they were giving highest return of investment(ROI) and keep them prescribing and defend again competitors.
+- 35% for new starters so we can nurture new adopters to build long-term brand habits.
+and only 15% on non-responders so we can minimize wasted effort. So we only target top volume accounts to diagnose barriers.
+
+- *Strategic Recommendations:*-
+- **Targeted sales allocation:** - We give direct 85% of sales call, which are 50% growers and 35% new starters to maximize commercial ROI and brand growth.
+- **Reduced wasted effort:** -  We limit sales reps focus to 15% on non-responders, prioritizing only high-volume hospital accounts to uncover prescribing roadblocks.
+<img width="3864" height="605" alt="image" src="https://github.com/user-attachments/assets/e70065a9-1111-44a5-a777-4c67c423597e" />
 
 ---
 
