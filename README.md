@@ -202,7 +202,7 @@ Deliverable: a segment-level table of suggested **% of rep calls**, **estimated 
 ## 🚀 How to Use
 
 1. **Clone the Repository**: Clone this project repository from GitHub.
-2. **Set Up the Database**: Run the SQL scripts provided in the `DATABASE(https://github.com/singh0125abhishek-glitch/Pharma_Alert_to_Treatment_Analysis/tree/main/DATABASE)` file to create and populate the database.
+2. **Set Up the Database**: Run the SQL scripts provided in the ` <a href = "https://github.com/singh0125abhishek-glitch/Pharma_Alert_to_Treatment_Analysis/tree/main/DATABASE">DATABASE</a> file to create and populate the database.
 3. **Run the Queries**: Use the SQL queries provided in the `SQL_Queries.sql` file to perform your analysis.
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
