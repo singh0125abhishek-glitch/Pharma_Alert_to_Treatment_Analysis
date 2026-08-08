@@ -98,6 +98,9 @@ This establishes two lenses on "activity" — clinical signal strength vs. actua
 
 This isolates the highest-signal, lowest-conversion doctors — prime targets for outreach.
 
+<img width="300" height="300" alt="Screenshot 2026-08-08 162147" src="https://github.com/user-attachments/assets/587f3a7f-1824-46f0-8469-64fa3f01996b" />
+
+
 ### Q3 — Among our top doctors, how much business is going to competitors?
 Using the **Top 10 by alert volume** from Q1:
 - Calculate each HCP's prescription volume split between **Our Drug (DRG001)** and **all competitor drugs**
