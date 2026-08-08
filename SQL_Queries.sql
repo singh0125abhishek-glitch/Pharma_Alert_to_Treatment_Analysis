@@ -68,7 +68,6 @@ ________________________________________________________________________________
 --- For these 10 doctors, calculate the share of total prescription volume contributed by:
 --  1) Our Drug (DRG001)
 --  2) Competitor Drugs (all other drugs)
-
  
 with top_10 as (select HCP_ID, count(*) as total_alert from Alerts
 group by HCP_ID order by 2 desc limit 10),
