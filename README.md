@@ -196,20 +196,7 @@ Deliverable: a segment-level table of suggested **% of rep calls**, **estimated 
 
 ---
 
-## 📁 Repository Structure
 
-```
-├── data/
-│   ├── alerts.csv          # Clinical alert records
-│   ├── sales.csv           # Prescription transaction records
-│   └── affiliation.csv     # HCP-to-account mapping
-├── notebooks/
-│   └── analysis.ipynb      # End-to-end analysis (Q1–Q7)
-├── outputs/
-│   ├── charts/              # Funnel, scatter, lift charts
-│   └── tables/               # Exported ranking tables (CSV/XLSX)
-├── PrimeRx_Case_Study.pptx   # Final presentation deck
-└── README.md
 ```
 
 ---
