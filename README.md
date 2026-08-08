@@ -169,6 +169,8 @@ Using the segments from Q6 (New Starters, Growers, Non-Responders), allocate thi
 
 Deliverable: a segment-level table of suggested **% of rep calls**, **estimated quarterly calls**, and **estimated rep allocation**.
 
+<img width="600" height="300" alt="Screenshot 2026-08-08 161119" src="https://github.com/user-attachments/assets/7e7fe14b-cdf3-4882-904e-bc20bf8cedd4" />
+
 ---
 
 ## 🛠️ Tools & Skills Demonstrated
