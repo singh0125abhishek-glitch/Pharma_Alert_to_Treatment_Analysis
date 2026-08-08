@@ -243,4 +243,3 @@ jupyter notebook notebooks/analysis.ipynb
 ---
 
 
-*This case study was completed as part of the ProcDNA analytics case study series (2026–27).*
