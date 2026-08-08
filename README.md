@@ -1,9 +1,6 @@
 # ProcDNA Case Study: Nexavir | PrimeRx Flow
 ### Alert-to-Treatment & Commercial Opportunity Analysis (2026–27)
 
-![Domain](https://img.shields.io/badge/Domain-Pharma%20Commercial%20Analytics-blue)
-![Type](https://img.shields.io/badge/Type-Case%20Study-orange)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 A pharma commercial analytics case study analyzing HCP (doctor) clinical alert, prescription, and account affiliation data to identify missed treatment opportunities and build a data-driven sales prioritization strategy for **Nexavir (DRG001)**.
 
