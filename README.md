@@ -201,21 +201,13 @@ Deliverable: a segment-level table of suggested **% of rep calls**, **estimated 
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Use
 
-```bash
-# Clone the repo
-git clone <your-repo-url>
-cd <repo-name>
+1. **Clone the Repository**: Clone this project repository from GitHub.
+2. **Set Up the Database**: Run the SQL scripts provided in the `DATABASE` file to create and populate the database.
+3. **Run the Queries**: Use the SQL queries provided in the `SQL_Queries.sql` file to perform your analysis.
+4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the analysis
-jupyter notebook notebooks/analysis.ipynb
-```
-
-> *Update the run instructions above to match your actual environment (Python/SQL/Excel/BI tool).*
 
 ---
 
