@@ -215,11 +215,6 @@ Deliverable: a segment-level table of suggested **% of rep calls**, **estimated 
 
 ## 📈 Executive Summary
 
-*Add your final strategic recommendations here once the analysis is complete. Suggested structure:*
-- **Headline finding** — the single biggest commercial opportunity uncovered
-- **Segment-level insights** — which HCP/account segments matter most and why
-- **Recommended actions** — prioritized outreach plan and expected impact
-- **Next steps / limitations** — data gaps, follow-on analysis needed
 *Based on your analysis, prepare a summary about the findings and strategic recommendations to the leadership.*
 
 - **Problem Statement:** - Our goal was to figure out if positive lab test alerts actually make doctors prescribe our drug, which was Nexavir. We find where we are losing business and optimize sales rep calls.
@@ -230,10 +225,10 @@ Deliverable: a segment-level table of suggested **% of rep calls**, **estimated 
 - 35% for new starters so we can nurture new adopters to build long-term brand habits.
 and only 15% on non-responders so we can minimize wasted effort. So we only target top volume accounts to diagnose barriers.
 
-- *Strategic Recommendations:*-
+*Strategic Recommendations:*-
 - **Targeted sales allocation:** - We give direct 85% of sales call, which are 50% growers and 35% new starters to maximize commercial ROI and brand growth.
 - **Reduced wasted effort:** -  We limit sales reps focus to 15% on non-responders, prioritizing only high-volume hospital accounts to uncover prescribing roadblocks.
-<img width="3864" height="605" alt="image" src="https://github.com/user-attachments/assets/e70065a9-1111-44a5-a777-4c67c423597e" />
+
 
 ---
 
