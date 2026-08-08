@@ -127,7 +127,7 @@ Prescriptions per Active Doctor = Our Drug Prescription Volume / # Active Prescr
 ```
 
 - Visualize as a **scatter plot**: account size (affiliated doctors) vs. efficiency ratio, to flag large-but-underperforming accounts
-<img width="200" height="200" alt="Screenshot 2026-08-08 160037" src="https://github.com/user-attachments/assets/11481168-6cbd-4ad8-a1c4-87060d6983c0" />
+<img width="600" height="200" alt="Screenshot 2026-08-08 160037" src="https://github.com/user-attachments/assets/11481168-6cbd-4ad8-a1c4-87060d6983c0" />
 
 
 ### Q6 — Did alerts actually change doctor behavior? (Before vs. After)
