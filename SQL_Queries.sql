@@ -10,7 +10,7 @@ ________________________________________________________________________________
  
 with dist as (select distinct(HCP_ID) as HCP_ID from Alerts a)
 
-select distinct HCP_ID, SUM(Prescription_Volume) AS Total_Prescription_vol from Sales s 
+select distinct s.HCP_ID, SUM(Prescription_Volume) AS Total_Prescription_vol from Sales s 
 join dist d on s.HCP_ID = d.HCP_ID
 group by HCP_ID order by 2 desc limit 10;
 
